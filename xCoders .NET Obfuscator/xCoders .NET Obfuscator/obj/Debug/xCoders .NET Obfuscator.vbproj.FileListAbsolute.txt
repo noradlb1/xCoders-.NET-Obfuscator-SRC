@@ -1,0 +1,11 @@
+C:\Users\Simon\AppData\Local\Temporary Projects\xCoders .NET Obfuscator\bin\Debug\xCoders.NET_Obfuscator.exe
+C:\Users\Simon\AppData\Local\Temporary Projects\xCoders .NET Obfuscator\bin\Debug\xCoders.NET_Obfuscator.pdb
+C:\Users\Simon\AppData\Local\Temporary Projects\xCoders .NET Obfuscator\bin\Debug\xCoders.NET_Obfuscator.xml
+C:\Users\Simon\AppData\Local\Temporary Projects\xCoders .NET Obfuscator\obj\Debug\xCoders.NET_Obfuscator.Resources.resources
+C:\Users\Simon\AppData\Local\Temporary Projects\xCoders .NET Obfuscator\obj\Debug\xCoders .NET Obfuscator.vbproj.GenerateResource.Cache
+C:\Users\Simon\AppData\Local\Temporary Projects\xCoders .NET Obfuscator\obj\Debug\xCoders.NET_Obfuscator.exe
+C:\Users\Simon\AppData\Local\Temporary Projects\xCoders .NET Obfuscator\obj\Debug\xCoders.NET_Obfuscator.xml
+C:\Users\Simon\AppData\Local\Temporary Projects\xCoders .NET Obfuscator\obj\Debug\xCoders.NET_Obfuscator.pdb
+C:\Users\Simon\AppData\Local\Temporary Projects\xCoders .NET Obfuscator\obj\Debug\xCoders.NET_Obfuscator.Form1.resources
+C:\Users\Simon\AppData\Local\Temporary Projects\xCoders .NET Obfuscator\bin\Debug\Mono.Cecil.dll
+C:\Users\Simon\AppData\Local\Temporary Projects\xCoders .NET Obfuscator\obj\Debug\xCoders .NET Obfuscator.vbprojResolveAssemblyReference.cache
